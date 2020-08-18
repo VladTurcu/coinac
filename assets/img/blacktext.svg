@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg width="86" height="19" viewBox="0 0 86 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style type="text/css">
+	.st0{display:none;opacity:0.18;}
+	.st1{display:inline;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st2{fill:#5F83FF;stroke:#5F83FF;stroke-miterlimit:10;}
+	.st3{fill:#FFF355;stroke:#FFF355;stroke-miterlimit:10;}
+	.st4{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st5{fill:#FF4F3F;stroke:#FF4F3F;stroke-miterlimit:10;}
+	.st6{fill:#FFFFFF;stroke:#FF4F3F;stroke-miterlimit:10;}
+	.st7{fill:#FFA2A4;stroke:#FF0006;stroke-miterlimit:10;}
+	.st8{fill:#FFFFFF;}
+	.st9{font-family:'Montserrat-SemiBold';}
+	.st10{font-size:40px;}
+	.st11{font-size:22px;}
+	.st12{font-family:'Montserrat-SemiBoldItalic';}
+	.st13{font-size:10px;}
+</style>
+<g id="Layer_1" class="st0">
+	<path class="st1" d="M202.5,102.5"/>
+</g>
+<g id="Layer_4">
+	<path class="st2" d="M82.5,91.5h114v-5h-119v0C77.5,89.3,79.7,91.5,82.5,91.5z"/>
+	<path class="st2" d="M171.7,91.5c0,0,24.8-1,26.8,22s9-14,9-14l-3-10l-19-1l-11,1L171.7,91.5z"/>
+</g>
+<g id="Layer_3">
+	<path class="st3" d="M225,107.5v37h0c-15.2,0-27.5-12.3-27.5-27.5V86.5h6.5C215.6,86.5,225,95.9,225,107.5z"/>
+</g>
+<g id="head">
+	<path class="st4" d="M166.5,148.5"/>
+	<path class="st4" d="M167.5,142.5"/>
+	<path class="st5" d="M248.8,155c-16.4,0-29.8-13.2-29.8-29.6v-21.9c0-5,9.4-4,11.5-4h15c1.5,0,2.8,0.6,3.8,1.8l17.7,20.4l16,8.7
+		c1.9,0.8,3.2,2.8,3.2,4.9v8.5l1.6,0.7c1.9,0.8,3.2,2.8,3.2,5v0.7c0,2.6-2,4.8-4.6,4.8h-12.7v-1.4c0-7-5.4-12.7-12.1-12.7h0
+		c-7.1,0-12.9,6.1-12.9,13.5L248.8,155L248.8,155z"/>
+	<path class="st6" d="M238.5,103.5h-3.6c-1.9,0-3.4,1.5-3.4,3.4v10.3c0,2.3,1.9,4.2,4.2,4.2h2.8V103.5z"/>
+	<path class="st7" d="M209.5,89.5"/>
+	<path class="st6" d="M248.1,105.5l13.4,16h-22v-18h4.4C245.6,103.5,247.1,104.2,248.1,105.5z"/>
+	<circle class="st8" cx="264.5" cy="155.5" r="17.5"/>
+	<circle class="st5" cx="264.8" cy="155.8" r="14.2"/>
+	<circle class="st8" cx="265" cy="156" r="7"/>
+	<text transform="matrix(0.9999 0 0 1 21.0562 127.5625)" class="st9 st10">COINAC</text>
+	<text transform="matrix(1 0 0 1 71.3003 150.5215)" class="st9 st11">LOGISTICS</text>
+	<text transform="matrix(1 0 0 1 72.3047 165.0469)" class="st12 st13">Our Expertise at your Fingertips</text>
+</g>
+</svg>
